@@ -27,7 +27,7 @@ This is a full-stack web application to help job seekers track and manage their 
 
 1. Clone the repo
 ```
-git clone https://github.com/...
+git clone https://github.com/nataliekeys/job-application-tracker.git
 ```
 
 2. Install dependencies
