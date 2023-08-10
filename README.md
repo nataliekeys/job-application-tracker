@@ -1,7 +1,7 @@
 
 # Job Application Tracker
 
-<img width="886" alt="image" src="https://github.com/nataliekeys/job-application-tracker/assets/71570112/6f8a05d2-11cf-4ee8-905f-72dd614f41a7">
+<img width="889" alt="259886202-10167652-6cfc-4cd0-8a42-6729bf774b01" src="https://github.com/nataliekeys/job-application-tracker/assets/71570112/ff4d5ccb-7056-45a5-8de0-c8d3e4755b46">
 
 
 This is a full-stack web application to help job seekers track and manage their job applications during the application process. 
