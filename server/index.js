@@ -13,8 +13,7 @@ app.use(cors());
 
 app.use("/jobs", jobRoutes);
 
-const CONNECTION_URL =
-  "mongodb+srv://nataliekeys:J30947Q@cluster0.4ffr7.mongodb.net/";
+const CONNECTION_URL = {insert url}
 
 const PORT = process.env.PORT || 5000;
 
